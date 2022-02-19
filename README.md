@@ -11,7 +11,7 @@ pip install PyQtWebEngine
 u can login account in this browser because it collect cookies
 
 # ScreenShot:
-Wait...
+![scrrenshot](https://user-images.githubusercontent.com/95897670/154789288-805cfd02-12da-4faf-af53-b65274179ea9.png)
 
 # create setup program
 > Download: Click [Here](https://jrsoftware.org/download.php/is.exe?site=1)
