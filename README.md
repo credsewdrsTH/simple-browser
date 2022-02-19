@@ -7,6 +7,9 @@ Coder: credsewdrsrTH
 pip install PyQt5
 pip install PyQtWebEngine
 
+# Used:
+u can login account in this browser because it collect cookies
+
 # ScreenShot:
 Wait...
 
